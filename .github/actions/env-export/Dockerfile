@@ -1,4 +1,4 @@
-FROM secrethub/cli
+FROM simonbarendse/secrethub-cli
 
 COPY entrypoint.sh /entrypoint.sh
 
